@@ -2,5 +2,21 @@
   { "_id": "1",
     "name": "Angular",
     "categoria": "front-end"
+  },
+  { "_id": "2",
+    "name": "Node",
+    "categoria": "Back-end"
+  },
+  { "_id": "3",
+    "name": "React",
+    "categoria": "front-end"
+  },
+  { "_id": "4",
+    "name": "NextJS",
+    "categoria": "front-end"
+  },
+  { "_id": "5",
+    "name": "Boostrap",
+    "categoria": "front-end"
   }
 ]
